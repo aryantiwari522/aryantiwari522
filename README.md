@@ -21,4 +21,4 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ##  LeetCode Stats
-![Leetcode Stats](https://leetcard.jacoblin.cool/aryan522)
+![Leetcode Stats](https://leetcard.jacoblin.cool/aryan522?theme=dark)
